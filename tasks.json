@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "description": "Workout",
+    "status": "todo",
+    "createdAt": "2024-08-21T13:43:02.692Z",
+    "updatedAt": "2024-08-21T13:43:02.694Z"
+  },
+  {
+    "id": 2,
+    "description": "Go to market",
+    "status": "todo",
+    "createdAt": "2024-08-21T13:43:14.908Z",
+    "updatedAt": "2024-08-21T13:43:14.910Z"
+  },
+  {
+    "id": 3,
+    "description": "Buy a fiction book",
+    "status": "in-progress",
+    "createdAt": "2024-08-21T13:43:37.938Z",
+    "updatedAt": "2024-08-21T13:46:25.624Z"
+  },
+  {
+    "id": 4,
+    "description": "Brush",
+    "status": "done",
+    "createdAt": "2024-08-21T13:47:23.369Z",
+    "updatedAt": "2024-08-21T13:47:37.364Z"
+  }
+]
